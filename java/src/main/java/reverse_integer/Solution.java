@@ -1,4 +1,4 @@
-package problem7_reverse_integer;
+package reverse_integer;
 
 public class Solution {
   public int reverse(int x) {
